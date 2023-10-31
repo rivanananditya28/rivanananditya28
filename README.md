@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="" alt="Header">
+  <img src="https://github.com/rivanananditya28/rivanananditya28/blob/main/850477fed08bfe98598082bcd309ce70.gif" alt="Header" width="300">
 </div>
 
 Saya adalah seorang pengembang perangkat lunak dengan semangat untuk inovasi teknologi. Terobsesi dengan pembuatan solusi canggih dan menciptakan pengalaman pengguna yang luar biasa.
